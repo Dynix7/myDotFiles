@@ -1,9 +1,15 @@
 # myDotFiles
 will update later
 Fonts:
-Jetbrains-mono
-Jetbrains-mono-nerd
-Font awesome
+Jetbrains-mono,
+Jetbrains-mono-nerd,
+Font awesome,
+
+sddm: Utterly sweet (install plasma-framework5 btw and i just removed the battery part that gave errors lol)
+
+GTK: Shades of Purple
+
+Icons: vivid dark
 
 Software Used:
 hyprland,
@@ -21,7 +27,7 @@ File Manager: Nautilus,
 waybar,
 hyprpaper & waypaper,
 wofi,
-Vesktop (probably),
+Vesktop (probably through flatpak btw),
 hypridle,
 hyprlock,
 wlogout,
