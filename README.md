@@ -33,14 +33,14 @@ wlogout,
 
 misc
 neovim with lazyvim,
-brightnessctl
-network-manager-applet
-pavucontrol
-vesktop (flatpak)
+brightnessctl,
+network-manager-applet,
+pavucontrol,
+vesktop (flatpak),
 
 
 Maybe Later idk:
-clipman
-hyprpicker
-wofi-emoji
+clipman,
+hyprpicker,
+wofi-emoji,
 
