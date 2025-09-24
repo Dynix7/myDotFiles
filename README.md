@@ -37,6 +37,7 @@ brightnessctl,
 network-manager-applet,
 pavucontrol,
 vesktop (flatpak),
+hyprcursor,
 
 
 Maybe Later idk:
