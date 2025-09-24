@@ -32,6 +32,7 @@ hyprlock,
 wlogout,
 
 misc
+
 neovim with lazyvim,
 brightnessctl,
 network-manager-applet,
