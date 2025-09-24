@@ -27,11 +27,15 @@ File Manager: Nautilus,
 waybar,
 hyprpaper & waypaper,
 wofi,
-Vesktop (probably through flatpak btw),
 hypridle,
 hyprlock,
 wlogout,
 
+misc
 neovim with lazyvim,
+brightnessctl
+network-manager-applet
+pavucontrol
+vesktop (flatpak)
 
 
