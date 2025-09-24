@@ -14,7 +14,8 @@ hyprpolkitagent,
 qt5-wayland and qt6-wayland (usually already installed but idk),
 nwg-look,
 
-Terminal: ghostty/kitty,
+Terminal: ghostty/kitty, 
+
 File Manager: Nautilus,
 
 waybar,
