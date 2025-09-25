@@ -40,11 +40,13 @@ pavucontrol,
 vesktop (flatpak),
 hyprcursor,
 
-maybe starship for terminal
+
 
 
 Maybe Later idk:
 clipman,
 hyprpicker,
 wofi-emoji,
+starship,
+hyprshot
 
