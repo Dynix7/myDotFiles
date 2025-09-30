@@ -1,4 +1,7 @@
 # myDotFiles
+
+just for personal storage
+
 will update later
 Fonts:
 Jetbrains-mono,
