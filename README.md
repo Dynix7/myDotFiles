@@ -2,6 +2,12 @@
 
 just for personal storage
 
+Ones not included here use the default one generated
+
+Note: Change the monitor in hyprland.conf and the wallpaper location in hyprpaper.conf
+
+For endeavourOS if you use Github Desktop you have to install gnome keyring
+
 will update later
 Fonts:
 Jetbrains-mono,
@@ -36,7 +42,7 @@ wlogout,
 
 misc
 
-neovim with lazyvim,
+neovim with lazyvim and vscode,
 brightnessctl,
 network-manager-applet,
 pavucontrol,
