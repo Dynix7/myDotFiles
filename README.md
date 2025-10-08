@@ -50,8 +50,7 @@ network-manager-applet,
 pavucontrol,
 vesktop (flatpak),
 hyprcursor,
-
-
+cava,
 
 
 Maybe Later idk:
