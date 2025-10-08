@@ -5,7 +5,8 @@ just for personal storage
 Ones not included here use the default one generated
 
 Note: Change the monitor in hyprland.conf and the wallpaper location in hyprpaper.conf, 
-Note2: When updating sometimes theres like some dependency so just use pacman -Rdd to remove it and u can install correct one
+
+misc: sbctl for secureboot and zramswap
 
 For endeavourOS if you use Github Desktop you have to install gnome keyring
 
