@@ -1,10 +1,11 @@
 * {
-    border-top: 100px;
+    border-top: 3px;
     font-family: Font Awesome, Roboto, Arial, sans-serif;
     font-size: 15px;
     color: #ffffff;
     border-radius: 20px;
     
+
     
     
 }
@@ -17,16 +18,24 @@ window#waybar {
 }
 /*-----module groups----*/
 .modules-right {
-    
+    border-style: solid;
+    border-width: 2px;
+    border-color:#d400ff;
 	background-color: rgba(111,33,166,0.85);
     margin: 7px 10px 0 0;
 
 }
 .modules-center {
+    border-style: solid;
+    border-width: 2px;
+    border-color:#d400ff;
 	background-color: rgba(111,33,166,0.85);
-    margin: 7px 10 0 0;
+    margin: 7px 0 0 0;
 }
 .modules-left {
+    border-style: solid;
+    border-width: 2px;
+    border-color:#d400ff;
     margin: 7px 0 0 10px;
 	background-color: rgba(111, 33, 166, 0.6);
 }
