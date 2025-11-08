@@ -58,5 +58,6 @@ clipman,
 hyprpicker,
 wofi-emoji,
 starship,
-hyprshot
+hyprshot,
+mpvpaper for animated wallpaper
 
