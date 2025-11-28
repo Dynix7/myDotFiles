@@ -4,7 +4,7 @@
     "modules-right": ["tray", "cpu", "memory", "disk","battery", "pulseaudio", "custom/power"],
 
 "power-profiles-daemon": {
-  "format": " {icon} ",
+  "format": "  {icon} ",
   "tooltip-format": "Power profile: {profile}nDriver: {driver}",
   "tooltip": true,
   "format-icons": {
@@ -79,12 +79,12 @@
         "battery": {
         "bat": "BAT0",
         "states": {
-            // "good": 95,
+            "good": 95,
             "warning": 30,
             "critical": 15
         },
         "format": "{capacity}% {icon}",
-        // "format-good": "", // An empty format will hide the module
+        // format-good": "", // An empty format will hide the module
         // "format-full": "",
         "format-icons": ["", "", "", "", ""]
     },
@@ -93,7 +93,7 @@
 		"on-click": "wlogout"
 	},
     "custom/icon": {
-        "format": "  ",
+        "format": "   Dynix ",
         "tooltip": false
 
     }
