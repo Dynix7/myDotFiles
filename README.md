@@ -16,6 +16,7 @@ Jetbrains-mono,
 Jetbrains-mono-nerd,
 Font awesome,
 
+kde thing: Gently-Dark
 sddm: Utterly sweet (install plasma-framework5 btw and i just removed the battery part that gave errors lol)
 
 GTK: Shades of Purple
@@ -54,7 +55,7 @@ cava,
 
 
 Maybe Later idk:
-clipman,
+cliphist,
 hyprpicker,
 wofi-emoji,
 starship,
