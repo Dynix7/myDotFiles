@@ -8,7 +8,7 @@ Note: Change the monitor in hyprland.conf and the wallpaper location in hyprpape
 
 misc: sbctl for secureboot and zramswap
 
-For endeavourOS if you use Github Desktop you have to install gnome keyring
+For Github Desktop you have to install gnome keyring
 
 will update later
 Fonts:
@@ -52,13 +52,14 @@ pavucontrol,
 vesktop (flatpak),
 hyprcursor,
 cava,
-
+mpvpaper for animated wallpaper,
+hypshot,
+cliphist,
+hyprpicker
 
 Maybe Later idk:
-cliphist,
-hyprpicker,
+
 wofi-emoji,
 starship,
-hyprshot,
-mpvpaper for animated wallpaper
+
 
