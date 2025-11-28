@@ -59,7 +59,7 @@
     "path": "/"
      },
     "pulseaudio": {
-        "format": "{volume}% {icon} ",
+        "format": "{volume}% {icon}",
         "format-bluetooth": "{volume}% {icon} {format_source}",
         "format-bluetooth-muted": " {icon} {format_source}",
         "format-muted": "0% {icon} ",
@@ -93,7 +93,7 @@
 		"on-click": "wlogout"
 	},
     "custom/icon": {
-        "format": "   Dynix ",
+        "format": "  Dynix ",
         "tooltip": false
 
     }
