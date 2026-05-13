@@ -1,5 +1,7 @@
 # myDotFiles
 
+** WILL UPDATE TO LUA IN A DAY OR TWO **
+
 just for personal storage
 
 Ones not included here use the default one generated
