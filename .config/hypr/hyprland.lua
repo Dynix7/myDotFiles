@@ -291,6 +291,8 @@ hl.bind(mainMod .. " + D", hl.dsp.exec_cmd(menu))
 hl.bind(mainMod .. " + P", hl.dsp.window.pseudo())
 hl.bind(mainMod .. " + J", hl.dsp.layout("togglesplit"))    -- dwindle only
 
+-- Restart Waybar
+hl.bind(mainMod .. " + R", hl.dsp.exec_cmd("pkill waybar && waybar &"))
 
  -- Screen Shots
 hl.bind(mainMod .. " + SHIFT + S", hl.dsp.exec_cmd("hyprshot -m region --clipboard-only"))
