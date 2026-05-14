@@ -1,4 +1,4 @@
-hide_scroll=true
+hide_scroll=false
 show=drun
 width=30%
 lines=8
@@ -10,7 +10,7 @@ show_all=true
 print_command=true
 layer=overlay
 allow_images=true
-sort_order=alphabetical
+#sort_order=alphabetical
 gtk_dark=true
 prompt=Search
 image_size=20

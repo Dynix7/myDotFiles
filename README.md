@@ -1,8 +1,8 @@
 # myDotFiles
 
-**WILL UPDATE TO LUA IN A DAY OR TWO**
+![alt text](image.png)
 
-just for personal storage
+The install.sh thingy only installs the packages for now I'll add more later
 
 Ones not included here use the default one generated
 
